@@ -144,7 +144,7 @@ header .ham-burger.active span:nth-child(2){
 /*Home section*/
 .home{
 	height: 100vh;
-	background-image: url('../images/home.jpg');
+	background-image: url('./images/home.jpg');
 	background-size: cover;
 	padding:15px;
 	-webkit-display: flex;
@@ -462,8 +462,6 @@ header .ham-burger.active span:nth-child(2){
 .classes .content .class-items .item .item-text a{
 	color:#ffffff;
 }
-
-
 
 
 /*Start Today Section*/
